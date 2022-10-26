@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SentryDemo</string>
+    <string name="sentry_dsn">set dsn key</string>
 </resources>
