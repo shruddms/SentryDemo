@@ -16,7 +16,7 @@ Set your DSN in `String.xml` file.
 ```
 
 # Preview
-![](https://user-images.githubusercontent.com/74607521/198098541-97c76988-68cc-43d9-9419-8daa0f3b4d7f.png)
+![](https://user-images.githubusercontent.com/74607521/198101412-04bfce8d-5f9f-45f8-9390-c3bb9965a013.png | width=50%)
 
 Developed By
 ------------------------------------
