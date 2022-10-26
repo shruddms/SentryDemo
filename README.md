@@ -16,7 +16,7 @@ Set your DSN in `string.xml` file.
 </resources>
 ```
 
-### Preview
+## Preview
 <img src="https://user-images.githubusercontent.com/74607521/198101412-04bfce8d-5f9f-45f8-9390-c3bb9965a013.png" width=50%>
 
 Developed By
