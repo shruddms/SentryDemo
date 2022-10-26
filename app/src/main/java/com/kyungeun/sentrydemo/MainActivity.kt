@@ -50,12 +50,14 @@ class MainActivity : AppCompatActivity() {
                     email = "demo@example.com"
                 }
             }
+            Toast.makeText(this, "Completion!", Toast.LENGTH_SHORT).show()
         }
         binding.clearUserBtn.setOnClickListener {
             Sentry.configureScope { scope ->
                 scope.setTag("user", "logout")
                 scope.user = null
             }
+            Toast.makeText(this, "Completion!", Toast.LENGTH_SHORT).show()
         }
     }
 }
