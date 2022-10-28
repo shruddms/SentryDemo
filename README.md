@@ -1,4 +1,4 @@
-# Sentry Android Demo
+# Android Sentry Demo
 
 A simple demo project used sentry.
 
@@ -9,15 +9,17 @@ Libraries used on the sample project
 
 Setup
 ------------------------------------
-Set your DSN in `string.xml` file.
+Set your DSN key in `string.xml` file.
 ```xml
 <resources>
     <string name="sentry_dsn">YOUR_DSN</string>
 </resources>
 ```
 
+
 ## Preview
-<img src="https://user-images.githubusercontent.com/74607521/198101412-04bfce8d-5f9f-45f8-9390-c3bb9965a013.png" width=50%>
+<img src="https://user-images.githubusercontent.com/74607521/198101412-04bfce8d-5f9f-45f8-9390-c3bb9965a013.png" width=30%>
+
 
 Developed By
 ------------------------------------
