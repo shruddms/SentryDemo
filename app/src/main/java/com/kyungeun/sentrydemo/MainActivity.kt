@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
         }
         binding.contextBtn.setOnClickListener {
             Sentry.configureScope { scope ->
-                scope.setContexts("name", "nokyungeun")
+                scope.setContexts("name", "demo")
                 scope.setContexts("age", 20)
                 scope.setContexts("gender", "female")
                 scope.setContexts("member_rating", 1)
