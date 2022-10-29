@@ -40,6 +40,15 @@ class MainActivity : AppCompatActivity() {
             Sentry.captureMessage("Message Test")
             Toast.makeText(this, "Completion!", Toast.LENGTH_SHORT).show()
         }
+        binding.contextBtn.setOnClickListener {
+            Sentry.configureScope { scope ->
+                scope.setContexts("name", "nokyungeun")
+                scope.setContexts("age", 20)
+                scope.setContexts("gender", "female")
+                scope.setContexts("member_rating", 1)
+                scope.setContexts("purchase_rating", 0)
+            }
+        }
         binding.addUserBtn.setOnClickListener {
             Sentry.configureScope { scope ->
                 scope.setTag("user", "login")

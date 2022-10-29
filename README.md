@@ -18,7 +18,7 @@ Set your DSN key in `string.xml` file.
 
 
 ## Preview
-<img src="https://user-images.githubusercontent.com/74607521/198101412-04bfce8d-5f9f-45f8-9390-c3bb9965a013.png" width=30%>
+<img src="https://user-images.githubusercontent.com/74607521/198826563-3d064b48-4561-489c-bb20-3d6b32a78fa1.png" width=30%>
 
 
 Developed By
